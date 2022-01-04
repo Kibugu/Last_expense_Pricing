@@ -1,0 +1,75 @@
+﻿Policy_number,Scheme Name,RENEWAL DATE,Intermediary,Channel,Premium,Claim_amount,benefit,No_of_claims,Claim_ratio,Population,Average_age,Famsize,Occupation,Single_multiple,Rate_Applied
+1,AHS 82/84,01-09-20,Stanbic Insurance Agency,bancassurance,158000,400000,200000,2,2.53,26,55,Extended,Welfare,Single,20
+2,HANSARD,01-09-20,Stanbic Insurance Agency,bancassurance,64000,100000,200000,1,1.56,32,38,Extended,Welfare,Single,20
+3,NANYUKI CENTRAL SDA,01-09-20,Stanbic Insurance Agency,bancassurance,42500,100000,200000,1,2.35,21,46,Extended,Welfare,Single,20
+4,NIFTY INVESTMENT,01-09-20,Stanbic Insurance Agency,bancassurance,36000,100000,200000,1,2.78,18,47,Extended,Welfare,Single,20
+5,SIAL,01-09-20,Stanbic Insurance Agency,bancassurance,260000,650000,200000,3,2.5,140,43,Extended,Welfare,Single,20
+6,STANBIC BANK EMPLOYEES,04-09-21,Stanbic Insurance Agency,bancassurance,18539309,33525000,500000,186,1.81,1498,40,Extended,Welfare,Single,27
+7,SUNNY SIDE PRAYER CELL,01-09-20,Stanbic Insurance Agency,bancassurance,58000,1100000,200000,2,18.97,12,46,Extended,Welfare,Single,20
+8,TEMWA,01-09-20,Stanbic Insurance Agency,bancassurance,24000,200000,200000,2,8.33,12,39,Extended,Welfare,Single,20
+9,FANAKA,01-09-20,Stanbic Insurance Agency,bancassurance,60000,750000,200000,2,12.5,10,40,Extended,Welfare,Single,20
+10,WAMAE AND ALLEN,01-09-20,Stanbic Insurance Agency,bancassurance,98200,100000,200000,1,1.02,24,35,Extended,Welfare,Single,20
+11,ATTAYA,01-09-20,Stanbic Insurance Agency,bancassurance,44000,200000,200000,2,4.55,11,42,Extended,Welfare,Single,20
+12,KARENGATA SDA,01-09-20,Stanbic Insurance Agency,bancassurance,334800,400000,200000,2,1.19,62,46,Extended,Welfare,Single,20
+13,SCICPA,01-09-20,Stanbic Insurance Agency,bancassurance,581000,200000,200000,1,0.34,94,37,Extended,Welfare,Single,20
+14,NYIKWA WAMBEDHA 2021,01-09-20,Stanbic Insurance Agency,bancassurance,226700,300000,200000,2,1.32,34,43,Extended,Welfare,Single,20
+15,MAKINA PAG,01-09-20,Stanbic Insurance Agency,bancassurance,113400,100000,200000,1,0.88,52,50,Extended,Welfare,Single,20
+16,NAKIKA,01-09-20,Stanbic Insurance Agency,bancassurance,100000,200000,200000,1,2,25,0,Extended,Welfare,Single,20
+17,WORLD SCOUT,01-09-20,Stanbic Insurance Agency,bancassurance,178400,100000,200000,1,0.56,59,42,Extended,Welfare,Single,20
+18,TRIPLE OK LAW,01-09-20,Stanbic Insurance Agency,bancassurance,116100,100000,200000,1,0.86,18,45,Extended,Welfare,Single,20
+19,LAVINGTON,01-09-20,Stanbic Insurance Agency,bancassurance,567000,1900000,200000,6,3.35,89,42,Extended,Welfare,Single,20
+20,ABASIANI BA INGO,01-09-20,Stanbic Insurance Agency,bancassurance,52000,100000,200000,1,1.92,26,39,Extended,Welfare,Single,20
+21,OMOKIA,01-09-20,Stanbic Insurance Agency,bancassurance,32400,100000,200000,1,3.09,16,52,Extended,Welfare,Single,20
+22,GICHUNGO BORDER ,01-08-21,EFA - Patrick Maingi, Agency ,80661,1800000,75000,0,22.32,28,55,Nuclear,Welfare,Single,38
+23,WANANDEGE SACCO SOCIETY LIMITED,01-06-21,CORNELL INSURANCE AGENCY, Agency ,32500,200000,100000,2,6.15,70,42,Extended,Welfare,Single,30
+24,NGALA JARED COMMUNITY DEVELOPMENT FOUNDATION,01-06-21,Ngala Jared Ins. Agency, Agency ,37260,250000,500000,1,6.71,25,42,Extended,Welfare,Multiple,25
+25,NATIONAL ASSOCIATION OF RETIRED POLICE,27-05-21,Humphrey Gatobu Mbaabu, Agency ,103700,200000,100000,2,1.93,52,51,Nuclear,Welfare,Single,17
+26,JAMAGEA GROUP,12-05-21,John Paul, Agency ,43700,200000,200000,2,4.58,42,49,Nuclear,Welfare,Single,12.5
+27,THE CHRISTIAN WELFARE ASSOCIATION,03-05-21,CAROLINE KARANJA, Agency ,75300,0,150000,0,0,10,48,Extended,Employer,Multiple,50
+28,HALALA GROUP,25-04-21,Philip Misiati, Agency ,50040,200000,100000,2,4,42,12,Nuclear,Welfare,Single,50
+29,YAMO OLOKO CLUB,01-04-21,Waumini Insurance Brokers,Brokers,24000,0,200000,0,0,8,15,Nuclear,Welfare,Single,57
+30,NORTH RIFT KISA WELFARE & DEV ASSOCIATION,15-02-21,Green Heart Ins. Agency, Agency ,39000,0,150000,0,0,10,42,Extended,Welfare,Single,26
+31,ST. CHARLES LWANGA SCHOOL ,01-02-21,Philip Misiati, Agency ,58250,100000,100000,1,1.72,22,42,Extended,Employer,Single,30
+32,FAULU - LAST EXPENSE,01-01-21,Faulu Agency,bancassurance,99117828,102488988,100000,152,1.03,13044,15,Nuclear,Welfare,Single,5.5
+33,DTB OPERATIONS WELFARE ,01-01-21,Diamond Trust Insurance Agency,bancassurance,258000,400000,100000,4,1.55,129,45,Extended,Welfare,Single,25
+34,OMIS LIFE WRAPPER,01-01-21,Direct,Direct,2020800,0,50000,0,0,1684,42,Nuclear,Welfare,Single,48
+35,GEORGE WOODS - HESHIMA PLAN,01-01-21,Direct,Direct,14543,0,200000,0,0,5,42,Nuclear,Welfare,Single,14.54
+36,PE HILL ALUMNI LAST EXPENSE,01-01-22,Cyril Insurance Agency, Agency ,138000,800000,200000,3,5.8,34,49,Extended,Welfare,Single,40
+37,KENBRIGHT INSURANCE BROKERS,19-12-21,Direct,Direct,92000,1,100000,0,1.06,23,42,Extended,Employer,Single,40
+38,RUTHIMITU YOUNG MEN'S SHG HOLDING LTD,01-12-20,EFA - Patrick Maingi, Agency ,83753,0,75000,0,0,38,62,Nuclear,Welfare,Single,15
+39,ECO BANK LAST EXPENSE,01-10-20,Eco Bank Insurance Agency,bancassurance,119674,0,500000,0,0,23,40,Extended,Welfare,Single,19.23
+40,KENYA INSTITUTE OF CURRICULUM DEVELOPMENT (KICD),01-09-21,Acentria Insurance Brokers Limited,Brokers,233500,1000000,100000,7,4.29,324,42,Nuclear,Employer,Single,5
+41,EYALUM SERVICES,01-09-22,Terry Muhoro, Agency ,210000,600000,300000,2,2.86,40,42,Extended,Employer,Single,25
+48,WASKOM SACCO,01-06-21,INSTAAFRICA INSURANCE AGENCY, Agency ,2835744,4300000,100000,43,1.52,1035,40,Extended,Employer,Single,32.5
+49,EX ABN AMRO STAFF WELFARE GROUP,16-06-21,ABSA,bancassurance,260000,400000,100000,2,1.54,231,46,Extended,Welfare,Single,20
+50,MIBS SELF HELP GROUP,06-09-21,CHANCERY WRIGHT INSURANCE BROKERS,Brokers,62000,100000,100000,1,1.61,25,44,Extended,Welfare,Single,20
+51,SULUMETI SISTERS SELF HELP GROUP,27-08-21,PHILIP MAKHATSA MISIATI, Agency ,47700,0,100000,0,0,19,39,Extended,Welfare,Single,25
+52,K REP ORIGINALS WELFARE,03-08-20,ANJELINE AKOTH OJWANG, Agency ,250000,0,100000,0,0,88,55,Extended,Welfare,Single,25
+53,OASIS DOCTORS PLAZA,25-08-21,ISAAC ODHIAMBO KISERO, Agency ,57500,0,100000,0,0,19,42,Extended,Employer,Single,30
+54,SIKHOMI LIMITED,25-09-21,SIMON WAYABILA, Agency ,50200,0,250000,0,0,10,40,Extended,Employer,Single,25
+55,KARA DEVELOPMENT GROUP,17-02-21,EDWARD OPUK, Agency ,57500,0,100000,0,0,23,37,Extended,Welfare,Single,25
+56,ACK KENYATTA ROAD MENS WELFARE GROUP,23-07-21,CHANCERY WRIGHT INSURANCE BROKERS,Brokers,238000,0,100000,0,0,130,51,Extended,Welfare,Single,25
+57,AQUINAS HIGH SCHOOL ALUMNI,01-03-21,Kelvin Mafusa, Agency ,77500,0,100000,0,0,31,42,Extended,Welfare,Single,25
+58,GASK SACCO ,03-06-21,Janet, Agency ,62500,0,100000,0,0,21,43,Extended,Employer,Single,25
+59,KOMRADES INVESTMENT LIMITED,22-06-21,Komrade Insurance Agency, Agency ,214205,0,100000,0,0,86,52,Extended,Employer,Single,25
+60,LIMITLESS SELF HELP GROUP,24-12-21,Direct,Direct,335000,200000,100000,2,0.6,11,35,Extended,Welfare,Single,50
+61,MAGNINE COMPANY ,19-05-21,Esther Mwende, Agency ,125000,0,500000,0,0,11,34,Extended,Employer,Single,25
+62,MERCEDEZ BENZ CLUB OF KENYA,25-08-21,Covernet Insurance Agency, Agency ,34300,0,100000,0,0,14,42,Extended,Welfare,Single,42
+63,MOTHER POWER SELF HELP GROUP,09-08-21,Jackline Muiga , Agency ,42000,0,100000,0,0,14,37,Extended,Welfare,Single,30
+64,NATIONAL ASSOCIATION OF CLINICAL OFFICER ANAESTHETIST KENYA,01-07-21,DUNIK INSURNACE AGENCY, Agency ,302000,500000,100000,5,1.66,147,42,Extended,Employer,Single,20
+65,NEO KENYA COMMUTERS LTD,27-08-21,Elizabeth  Mugure, Agency ,389000,0,100000,0,0,497,42,Nuclear,Employer,Single,12
+66,NYERI TEACHERS PLAZA HOUSING COOP SOCIETY,15-04-21,Philip Ndirangu Muchiri, Agency ,52500,0,300000,0,0,10,59,Nuclear,Employer,Single,18
+67,ZILIZOPENWA 2020 WELFARE ASSOCIATION,29-03-21,Milka , Agency ,41250,150000,150000,0,3.64,11,42,Extended,Welfare,Single,25
+68,CONTROL RISKS EAST AFRICA LIMITED,07-10-21,CHANCERY WRIGHT INSURANCE BROKERS,Brokers,236250,0,300000,0,0,22,36,Extended,Welfare,Multiple,37.5
+69,EPANJA YOUTH GROUP,07-11-21,Direct,Direct,20375,0,50000,0,0,8,40,Extended,Welfare,Single,30
+70,LENANA SCHOOL,15-11-21,Direct,Direct,224000,0,200000,0,0,75,45,Extended,Welfare,Single,25
+71,THE WECHE FOUNDATION,06-11-21,Direct,Direct,53000,0,150000,0,0,17,45,Extended,Welfare,Single,30
+72,THE LAST VILLAGE,30-03-22,Direct,Direct,68250,0,100000,0,0,21,46,Extended,Welfare,Multiple,32.5
+73,SAMAR WELFARE ASSOCIATION,01-04-22,Direct,Direct,183600,0,300000,0,0,54,60,Nuclear,Welfare,Single,12
+74,SAFARICOM DEALERS,04-03-22,GRAS SAVOYE KENYA INSURANCE BROKERS LIMITED,Brokers,11250,0,25000,0,0,58,29,Nuclear,Welfare,Single,7.5
+75,PATCH 87ERS LIMITED,01-04-21,CARMED INSURANCE AGENCY, Agency ,196400,0,100000,0,0,49,52,Extended,Welfare,Single,25
+76,OSIEPE SIMENYA WELFARE ASSOSIATION,19-08-22,NOEL MWANI, Agency ,32500,0,60000,0,0,18,39,Extended,Welfare,Single,41.5
+77,OASIS SPECIALIST STAFF WELFARE,12-07-22,ISAAC KISERO, Agency ,252500,0,100000,0,0,75,37,Nuclear,Welfare,Single,25
+78,MOTOR ASSESSORS ASSOCIATION OF KENYA (MAAK),07-09-22,TANDO INSURANCE AGENCY, Agency ,78719,0,150000,0,0,61,39,Nuclear,Welfare,Single,8.33
+79,MIGOSI WATER DEVELOPMENT PROJECT,06-04-22,SIMON WAYABILA, Agency ,120000,0,300000,0,0,15,64,Nuclear,Welfare,Single,25
+80,Tulimit Finance Trust,21-09-21,CHANCERY WRIGHT INSURANCE BROKERS,Brokers,375000,0,100000,0,0,150,45,Extended,Welfare,Single,25
