@@ -8,51 +8,60 @@
 </head>
 
 <body>
+            <div style="background-image: url(https://aep-nmr.com/wp-content/uploads/2016/11/OldMutual.png);">
+                <div style="color:Shamrock Green">
+                    <div style="font-size:20px">
+                        <div class="rows">
+                            <div class="column1">
+                <form action="{{ url_for('predict')}}" method="post">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu4U-3vAMpaHdQuReC-FHy-FLvTVsgjauaCvLdTUUXXj9uQsZoFOfRCiq2x13s0PzT0eU&usqp=CAU" alt="Uap Oldmutual logo" width="200" height="100">
+                    <h2>PREDICTING THE LAST EXPENSE RATE:</h2>
+                    <div class="column2">
+                    <h3>Channel of the intermediary?</h3><br><select name="Channel" id="first" required="required">
+                        <option value="bancassurance">bancassurance</option>
+                        <option value="Agency">Agency</option>
+                        <option value="Brokers">Brokers</option>
+                        <option value="Direct">Direct</option>
+                    </select>
+                    <h3>What the level of cover?</h3><input id="second" name="benefit" required="required">
+                    <h3>What the current claim ratio?</h3><input id="third" name="Claim_ratio" required="required">
+                    <h3>current month</h3><br><input id="sixth" name="Month"  required="required">
+                    <h3>What the size of the group?</h3><input id="fourth" name="Population"  required="required">
+                    </div>
+                    <div class="column3">
+                    <h3>What the average age?</h3><input id="fifth" name="Average_age"  required="required">
+                    <h3>Nuclear or including parent and parent in law?</h3><br><select name="Famsize" id="fuel" required="required">
+                        <option value="Nuclear">Nuclear</option>
+                        <option value="Extended">Extended</option>
+                    </select>
+                    <h3>Are you A welfare or employer</h3><br><select name="Occupation" id="resea" required="required">
+                        <option value="Welfare">Welfare</option>
+                        <option value="Employer">Employer</option>
+                    </select>
+                    <h3>No of claims </h3><br><select name="Single_multiple" id="research" required="required">
+                        <option value="Single">Single Claim</option>
+                        <option value="Multiple">Multiple Claim</option>
+                    </select>
+                        </div>
+                    <div class="column4">
+                    <br><br><button id="sub" type="submit ">Generate the Rate</button>
+                    <br>
 
-    <div style="color:blue">
-        <form action="{{ url_for('predict')}}" method="post">
-            <h2>Predictive analysis for Last Expense rates</h2>
-            <h3>Channel of the intermediary?</h3><br><select name="Channel" id="first" required="required">
-                <option value="bancassurance">bancassurance</option>
-                <option value="Agency">Agency</option>
-                <option value="Brokers">Brokers</option>
-                <option value="Direct">Direct</option>
-            </select>
-            <h3>What the level of cover?</h3><input id="second" name="benefit" required="required">
-            <h3>What the current claim ratio?</h3><input id="third" name="Claim_ratio" required="required">
-            <h3>current month</h3><br><input id="sixth" name="Month"  required="required">
-            <h3>What the size of the group?</h3><input id="fourth" name="Population"  required="required">
-            <h3>What the average age?</h3><input id="fifth" name="Average_age"  required="required">
-            <h3>Nuclear or including parent and parent in law?</h3><br><select name="Famsize" id="fuel" required="required">
-                <option value="Nuclear">Nuclear</option>
-                <option value="Extended">Extended</option>
-            </select>
-            <h3>Are you A welfare or employer</h3><br><select name="Occupation" id="resea" required="required">
-                <option value="Welfare">Welfare</option>
-                <option value="Employer">Employer</option>
-            </select>
-            <h3>No of claims </h3><br><select name="Single_multiple" id="research" required="required">
-                <option value="Single">Single Claim</option>
-                <option value="Multiple">Multiple Claim</option>
-            </select>
+                </form>
+                     </div>
+                      </div>
+                        </div>
+                         </div>
 
-            <br><br><button id="sub" type="submit ">Calculate the rate applicable for the welfare/employers</button>
-            <br>
-        </form>
+                <br><br><h3>{{ prediction_text }}</h3>
 
 
-
-        <br><br><h3>{{ prediction_text }}</h3>
-    </div>
-
-
-
-
+            </div>
     <style>
         body {
-            background-color: lightslategray;
+            background-color: rgb(97, 138, 61);
             text-align: center;
-            padding: 0px;
+            padding: 5px;
         }
 
         #research {
@@ -67,8 +76,8 @@
             border-color: 45px;
             border-style: solid;
             font-family: cursive;
-            text-align: center;
-            background-color: rgb(168, 131, 61);
+            text-align: left;
+            background-color: rgb(97, 138, 61);
             font-size: medium;
             position: absolute;
             width: 700px;
@@ -101,7 +110,7 @@
         }
 
         #research:hover {
-            background-color: coral;
+            background-color: SlateBlue (W3C);
         }
 
         #resea {
@@ -122,8 +131,9 @@
             text-align: centre;
             border-radius: 14px;
             font-size: 15px;
-            background-color: darkcyan;
-            font-bold = yes;
+            font-family: Fantasy;
+            background-color: #43C6DB;
+
         }
 
         #sub:hover {
@@ -170,8 +180,24 @@
             font-size: 20px;
             text-align: center;
         }
+
+        .column1 {
+          float: center;
+          width: 100%
+        }
+        .column2 {
+          float: left;
+          width: 50%
+
+        .column3 {
+          float: left;
+          width: 50%
+        .column4 {
+          float: center;
+          width: 100%
     </style>
-</body>
+
+ </body>
 
 </body>
 </html>
